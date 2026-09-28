@@ -1,0 +1,4 @@
+interface:
+  display_name: "Paseo Plugin Development"
+  short_description: "Build and ship reliable Paseo plugins"
+  default_prompt: "Use $paseo-plugin-development to create and verify a Paseo plugin for this request."
